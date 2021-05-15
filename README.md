@@ -1,5 +1,5 @@
 # git-study
-## branchについて
+## branchについて真
 コミットの履歴を枝分かれさせて、共同作業を助ける機能
 
 git branch ブランチ名 ブランチ作成
